@@ -1,0 +1,9 @@
+C:\Users\Tanulo\source\repos\Dexter\Dexter\bin\Debug\Dexter.exe.config
+C:\Users\Tanulo\source\repos\Dexter\Dexter\bin\Debug\Dexter.exe
+C:\Users\Tanulo\source\repos\Dexter\Dexter\bin\Debug\Dexter.pdb
+C:\Users\Tanulo\source\repos\Dexter\Dexter\obj\Debug\Dexter.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Dexter\Dexter\obj\Debug\Dexter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Dexter\Dexter\obj\Debug\Dexter.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Dexter\Dexter\obj\Debug\Dexter.exe
+C:\Users\Tanulo\source\repos\Dexter\Dexter\obj\Debug\Dexter.pdb
+C:\Users\Tanulo\source\repos\Dexter\Dexter\bin\Debug\Input.txt
