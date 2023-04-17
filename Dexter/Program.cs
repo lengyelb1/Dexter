@@ -34,14 +34,37 @@ namespace Dexter
                     {
 
                         //Console.Write($"{i}. {magassag} : ");
-
+                        Console.WriteLine(vagasok);
                         int g = (magassag - z) * (-1);
-                        if (g >0)
+
+                        if (g >= 0)
                         {
                             vagasok += g;
                         }
+                        else
+                        {
+                            vagasok += g * (-1);
+                        }
+
+                        /*
+                         if (magassag > z)
+                        {
+                            vagasok += magassag - z;
+                        }
+                        else if (magassag == z)
+                        {
+                            vagasok += 0;
+                        }
+                        else if (magassag< z)
+                        {
+                            vagasok += z - magassag;
+                        }
 
 
+
+                        
+                        Console.WriteLine($"{vagasok} = ({magassag} - {z}) * -1");
+                         */
 
                         //Console.WriteLine(z);
                         Console.WriteLine($"{vagasok} = ({magassag} - {z}) * -1");
